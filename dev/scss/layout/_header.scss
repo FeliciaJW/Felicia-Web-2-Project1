@@ -11,4 +11,13 @@ header{
         display:grid;
         grid-template-columns: 50% 50%   
     }
+    ul{
+        li{
+            list-style: none;
+            font-family: ;
+        }
+        a{
+            text-decoration: none;
+        }
+    }
 }
