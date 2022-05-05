@@ -4,4 +4,25 @@
 
 body{
     'Fira Sans', sans-serif;
+    font-size: 20px;
+    color: $black;
+}
+
+p{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 24px;
+}
+
+h3{
+    font-weight: 300;
+    font-size: 35 px;
+}
+
+footer{
+    color: $white;
 }
